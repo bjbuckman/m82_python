@@ -1,0 +1,398 @@
+# [1e+26, 3.1622776601683796e+26, 1e+27, 3.1622776601683794e+27, 9.9999999999999996e+27, 3.1622776601683799e+28, 1.0000000000000001e+29, 3.1622776601683795e+29, 1e+30]
+# [0.0, 200.0, 400.0, 600.0, 800.0, 1000.0, 1200.0, 1400.0, 1600.0, 1800.0, 2000.0]
+cp ./galdef_54_m82_02adv1010 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1010.job
+
+cp ./galdef_54_m82_02adv1011 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1011.job
+
+cp ./galdef_54_m82_02adv1012 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1012.job
+
+cp ./galdef_54_m82_02adv1013 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1013.job
+
+cp ./galdef_54_m82_02adv1014 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1014.job
+
+cp ./galdef_54_m82_02adv1015 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1015.job
+
+cp ./galdef_54_m82_02adv1016 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1016.job
+
+cp ./galdef_54_m82_02adv1017 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1017.job
+
+cp ./galdef_54_m82_02adv1018 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1018.job
+
+cp ./galdef_54_m82_02adv1019 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1019.job
+
+cp ./galdef_54_m82_02adv1020 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1020.job
+
+cp ./galdef_54_m82_02adv1110 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1110.job
+
+cp ./galdef_54_m82_02adv1111 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1111.job
+
+cp ./galdef_54_m82_02adv1112 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1112.job
+
+cp ./galdef_54_m82_02adv1113 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1113.job
+
+cp ./galdef_54_m82_02adv1114 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1114.job
+
+cp ./galdef_54_m82_02adv1115 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1115.job
+
+cp ./galdef_54_m82_02adv1116 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1116.job
+
+cp ./galdef_54_m82_02adv1117 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1117.job
+
+cp ./galdef_54_m82_02adv1118 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1118.job
+
+cp ./galdef_54_m82_02adv1119 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1119.job
+
+cp ./galdef_54_m82_02adv1120 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1120.job
+
+cp ./galdef_54_m82_02adv1210 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1210.job
+
+cp ./galdef_54_m82_02adv1211 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1211.job
+
+cp ./galdef_54_m82_02adv1212 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1212.job
+
+cp ./galdef_54_m82_02adv1213 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1213.job
+
+cp ./galdef_54_m82_02adv1214 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1214.job
+
+cp ./galdef_54_m82_02adv1215 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1215.job
+
+cp ./galdef_54_m82_02adv1216 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1216.job
+
+cp ./galdef_54_m82_02adv1217 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1217.job
+
+cp ./galdef_54_m82_02adv1218 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1218.job
+
+cp ./galdef_54_m82_02adv1219 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1219.job
+
+cp ./galdef_54_m82_02adv1220 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1220.job
+
+cp ./galdef_54_m82_02adv1310 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1310.job
+
+cp ./galdef_54_m82_02adv1311 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1311.job
+
+cp ./galdef_54_m82_02adv1312 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1312.job
+
+cp ./galdef_54_m82_02adv1313 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1313.job
+
+cp ./galdef_54_m82_02adv1314 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1314.job
+
+cp ./galdef_54_m82_02adv1315 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1315.job
+
+cp ./galdef_54_m82_02adv1316 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1316.job
+
+cp ./galdef_54_m82_02adv1317 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1317.job
+
+cp ./galdef_54_m82_02adv1318 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1318.job
+
+cp ./galdef_54_m82_02adv1319 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1319.job
+
+cp ./galdef_54_m82_02adv1320 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1320.job
+
+cp ./galdef_54_m82_02adv1410 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1410.job
+
+cp ./galdef_54_m82_02adv1411 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1411.job
+
+cp ./galdef_54_m82_02adv1412 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1412.job
+
+cp ./galdef_54_m82_02adv1413 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1413.job
+
+cp ./galdef_54_m82_02adv1414 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1414.job
+
+cp ./galdef_54_m82_02adv1415 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1415.job
+
+cp ./galdef_54_m82_02adv1416 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1416.job
+
+cp ./galdef_54_m82_02adv1417 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1417.job
+
+cp ./galdef_54_m82_02adv1418 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1418.job
+
+cp ./galdef_54_m82_02adv1419 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1419.job
+
+cp ./galdef_54_m82_02adv1420 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1420.job
+
+cp ./galdef_54_m82_02adv1510 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1510.job
+
+cp ./galdef_54_m82_02adv1511 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1511.job
+
+cp ./galdef_54_m82_02adv1512 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1512.job
+
+cp ./galdef_54_m82_02adv1513 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1513.job
+
+cp ./galdef_54_m82_02adv1514 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1514.job
+
+cp ./galdef_54_m82_02adv1515 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1515.job
+
+cp ./galdef_54_m82_02adv1516 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1516.job
+
+cp ./galdef_54_m82_02adv1517 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1517.job
+
+cp ./galdef_54_m82_02adv1518 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1518.job
+
+cp ./galdef_54_m82_02adv1519 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1519.job
+
+cp ./galdef_54_m82_02adv1520 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1520.job
+
+cp ./galdef_54_m82_02adv1610 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1610.job
+
+cp ./galdef_54_m82_02adv1611 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1611.job
+
+cp ./galdef_54_m82_02adv1612 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1612.job
+
+cp ./galdef_54_m82_02adv1613 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1613.job
+
+cp ./galdef_54_m82_02adv1614 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1614.job
+
+cp ./galdef_54_m82_02adv1615 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1615.job
+
+cp ./galdef_54_m82_02adv1616 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1616.job
+
+cp ./galdef_54_m82_02adv1617 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1617.job
+
+cp ./galdef_54_m82_02adv1618 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1618.job
+
+cp ./galdef_54_m82_02adv1619 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1619.job
+
+cp ./galdef_54_m82_02adv1620 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1620.job
+
+cp ./galdef_54_m82_02adv1710 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1710.job
+
+cp ./galdef_54_m82_02adv1711 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1711.job
+
+cp ./galdef_54_m82_02adv1712 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1712.job
+
+cp ./galdef_54_m82_02adv1713 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1713.job
+
+cp ./galdef_54_m82_02adv1714 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1714.job
+
+cp ./galdef_54_m82_02adv1715 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1715.job
+
+cp ./galdef_54_m82_02adv1716 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1716.job
+
+cp ./galdef_54_m82_02adv1717 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1717.job
+
+cp ./galdef_54_m82_02adv1718 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1718.job
+
+cp ./galdef_54_m82_02adv1719 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1719.job
+
+cp ./galdef_54_m82_02adv1720 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1720.job
+
+cp ./galdef_54_m82_02adv1810 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1810.job
+
+cp ./galdef_54_m82_02adv1811 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1811.job
+
+cp ./galdef_54_m82_02adv1812 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1812.job
+
+cp ./galdef_54_m82_02adv1813 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1813.job
+
+cp ./galdef_54_m82_02adv1814 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1814.job
+
+cp ./galdef_54_m82_02adv1815 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1815.job
+
+cp ./galdef_54_m82_02adv1816 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1816.job
+
+cp ./galdef_54_m82_02adv1817 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1817.job
+
+cp ./galdef_54_m82_02adv1818 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1818.job
+
+cp ./galdef_54_m82_02adv1819 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1819.job
+
+cp ./galdef_54_m82_02adv1820 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_02adv1820.job
+

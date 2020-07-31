@@ -1,0 +1,82 @@
+# [1.0]
+# [100.0, 61.58482110660264, 37.926901907322495, 23.357214690901227, 14.384498882876628, 8.858667904100828, 5.45559478116852, 3.3598182862837827, 2.06913808111479, 1.2742749857031341, 0.7847599703514615, 0.4832930238571752, 0.2976351441631319, 0.18329807108324375, 0.11288378916846896, 0.06951927961775604, 0.04281332398719396, 0.02636650898730361, 0.016237767391887228, 0.01]
+cp ./galdef_54_m82_05b2wff1010 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1010.job
+
+cp ./galdef_54_m82_05b2wff1011 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1011.job
+
+cp ./galdef_54_m82_05b2wff1012 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1012.job
+
+cp ./galdef_54_m82_05b2wff1013 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1013.job
+
+cp ./galdef_54_m82_05b2wff1014 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1014.job
+
+cp ./galdef_54_m82_05b2wff1015 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1015.job
+
+cp ./galdef_54_m82_05b2wff1016 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1016.job
+
+cp ./galdef_54_m82_05b2wff1017 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1017.job
+
+cp ./galdef_54_m82_05b2wff1018 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1018.job
+
+cp ./galdef_54_m82_05b2wff1019 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1019.job
+
+cp ./galdef_54_m82_05b2wff1020 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1020.job
+
+cp ./galdef_54_m82_05b2wff1021 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1021.job
+
+cp ./galdef_54_m82_05b2wff1022 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1022.job
+
+cp ./galdef_54_m82_05b2wff1023 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1023.job
+
+cp ./galdef_54_m82_05b2wff1024 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1024.job
+
+cp ./galdef_54_m82_05b2wff1025 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1025.job
+
+cp ./galdef_54_m82_05b2wff1026 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1026.job
+
+cp ./galdef_54_m82_05b2wff1027 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1027.job
+
+cp ./galdef_54_m82_05b2wff1028 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1028.job
+
+cp ./galdef_54_m82_05b2wff1029 /users/PCON0003/cond0064/galprop/galdef/
+
+qsub gp.m82_05b2wff1029.job
+

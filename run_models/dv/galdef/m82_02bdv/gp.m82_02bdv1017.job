@@ -1,0 +1,51 @@
+#PBS -l nodes=1:ppn=20
+#PBS -l walltime=5:37:24
+#PBS -N gp.m82_02bdv1017.job
+#PBS -j oe
+#PBS -A PCON0003
+
+GALPROPNAME=m82_02bdv1017
+# GASMAPNAME=m82_wind_1e3_2e3.fits
+
+export OMP_NUM_THREADS=20
+set -x
+
+cd $TMPDIR
+cp $HOME/QSUBS/DATA/* .
+mkdir $TMPDIR/outfits
+
+mkdir /fs/scratch/PCON0003/cond0064/${GALPROPNAME}
+mkdir $HOME/project_m82/gp_out/${GALPROPNAME}
+# mkdir $HOME/QSUBS/OUTFITS/${GALPROPNAME}
+
+date
+eval `$HOME/galprop_bb/gp/bin/galprop-config --env-sh`
+$HOME/galprop_bb/gp/bin/galprop -r ${GALPROPNAME} -o $TMPDIR/outfits
+date
+
+cp $TMPDIR/outfits/* /fs/scratch/PCON0003/cond0064/${GALPROPNAME}
+# cp $HOME/QSUBS/OUTFITS/${GALPROPNAME}/* $TMPDIR/outfits/
+
+cp $HOME/galprop/m82_py/gp2d_LOSimage_v3.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_LOScalc_v3.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_emission_v2.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_analytics_v2.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_particle_luminosity_v1.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_calc_spectrum.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_LOSanalyze_v1.py $TMPDIR/outfits
+cp $HOME/galprop/m82_py/gp2d_leastsquares_v2.py $TMPDIR/outfits
+# cp $HOME/galprop/fits/${GASMAPNAME} $TMPDIR/outfits
+cd $TMPDIR/outfits
+
+module load python/2.7.9
+export PYTHONPATH=$HOME/python/
+python gp2d_LOScalc_v3.py ${GALPROPNAME}
+python gp2d_analytics_v2.py ${GALPROPNAME}
+python gp2d_calc_spectrum.py ${GALPROPNAME}
+python gp2d_leastsquares_v2.py ${GALPROPNAME}
+
+#rm ${GASMAPNAME}
+cp $TMPDIR/outfits/* /fs/scratch/PCON0003/cond0064/${GALPROPNAME}
+cp $TMPDIR/outfits/*.dat $HOME/project_m82/gp_out/${GALPROPNAME}
+cp $TMPDIR/outfits/*.txt $HOME/project_m82/gp_out/${GALPROPNAME}
+cp $HOME/galprop/galdef/galdef_54_${GALPROPNAME} $HOME/project_m82/gp_out/${GALPROPNAME}
